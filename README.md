@@ -1,3 +1,3 @@
 # Reactサンプルページ
 React勉強中です。  
-ページは、Github Pagesから見れます（https://catseleven.github.io/React-Sample/）
+成果物はGithub Pagesから見れます（ https://catseleven.github.io/React-Sample ）
